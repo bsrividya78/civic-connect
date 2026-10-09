@@ -1,0 +1,8 @@
+{
+  "name": "Civic Connect – Civic Issue Reporting & Resolution System",
+  "description": "Crowdsourced civic issue reporting and resolution platform for smart cities. Real-time complaint registration, GPS geolocation, authority routing, and live status tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
